@@ -1,0 +1,16 @@
+{
+  "name": "nextjs-with-sitemap-and-robots-express-server",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "next build",
+    "start": "node server/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "next": "^9.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "sitemap": "^6.1.0"
+  },
+  "license": "ISC"
+}
